@@ -26,7 +26,11 @@ Trôi về nơi xa xa xa`
     //find string
     //cut string(substr, substring)
     //gop mang
-    //Sokitu trong chuoi
+    //Sokitu trong chu
 
-//console.log(_name.replace(/\s/g, "").length);
-console.log(rep.replace(/Em/g, "Trang"));
+//BT4
+let number = 10;
+let sum = number++ + --number
+    //number++ =?
+    //--number =?
+    //number
